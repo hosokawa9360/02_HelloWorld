@@ -16,5 +16,5 @@ new project　を　クリック
     + Publish and Pakage画面で　Publish Type から　Publish Resource を選択する
     + 自動的にエキスプローラが起動して、プロジェクトに必要なファイルが入ったフォルダが表示される
     
-
+## Publish によって作られるフォルダの概要は Wiki　を参照してください。
 
